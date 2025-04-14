@@ -2,7 +2,7 @@
     <div class="nav container-content">
         <div class="nav_data">
             <a href="#" class="nav_logo">
-                <i class="iconoir-home"></i> MFarrel
+                <i class="iconoir-code"></i> MFarrel
             </a>
 
             <div class="nav_toggle" id="nav-toggle">
