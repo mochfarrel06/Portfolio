@@ -11,7 +11,7 @@
 
             <div class="col-sm-12 col-md-6 home-container-text">
                 <div class="d-flex flex-column home_text">
-                    <h5 class="home_subtitle">Front End Developer</h5>
+                    <h5 class="home_subtitle">Front End Developer, 1</h5>
                     <h1 class="home_title">Hello, I'm <span>Moch Farrel</span></h1>
                     <p class="home_description">I am a Full Stack Developer, I like website programming languages ​​such as
                         PHP, JavaScript, HTML, CSS, Bootstrap, Tailwind, React JS, VUE, Laravel, MySQL.</p>
