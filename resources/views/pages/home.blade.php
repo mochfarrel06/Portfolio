@@ -9,21 +9,23 @@
                 <img class="img_home" src="{{ asset('image/home.png') }}" />
             </div>
 
-            <div class="col-sm-12 col-md-6 mt-5">
-                <h5 class="home_subtitle">Front End Developer</h5>
-
-                <div class="d-flex flex-column" style="gap: 5px">
+            <div class="col-sm-12 col-md-6 home-container-text">
+                <div class="d-flex flex-column home_text">
+                    <h5 class="home_subtitle">Front End Developer</h5>
                     <h1 class="home_title">Hello, I'm <span>Moch Farrel</span></h1>
-                    <p class="home_description">I am a Full Stack Developer, I like website programming languages ​​such as PHP, JavaScript, HTML, CSS, Bootstrap, Tailwind, React JS, VUE, Laravel, MySQL.</p>
+                    <p class="home_description">I am a Full Stack Developer, I like website programming languages ​​such as
+                        PHP, JavaScript, HTML, CSS, Bootstrap, Tailwind, React JS, VUE, Laravel, MySQL.</p>
                 </div>
 
-                <button class="btn btn-primary70">Download CV</button>
+                <div class="home_button">
+                    <button class="btn btn-primary70">Download CV</button>
 
-                <div class="d-flex home_icon mt-3" style="gap: 5px">
-                    <a href="#"><i class="iconoir-github"></i></a>
-                    <a href="#"><i class="iconoir-facebook"></i></a>
-                    <a href="#"><i class="iconoir-instagram"></i></a>
-                    <a href="#"><i class="iconoir-dribbble"></i></a>
+                    <div class="d-flex home_icon">
+                        <a href="#"><i class="iconoir-github"></i></a>
+                        <a href="#"><i class="iconoir-facebook"></i></a>
+                        <a href="#"><i class="iconoir-instagram"></i></a>
+                        <a href="#"><i class="iconoir-dribbble"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
